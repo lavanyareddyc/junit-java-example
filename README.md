@@ -5,7 +5,7 @@ This is sample JUnit + maven  project in Java. It shows how to upload test resul
 ### Run test
 
 -----------
-please update these details in `pom.xml` file. 
+please update these are details in `pom.xml` file. 
 
 <div id="automationFramework" class="border-top m-t-10 p-t-10"><div class="m-t-sm">
     <label class="bold">Step 1: Add the following to the &lt;build&gt; -&gt; &lt;plugins&gt; block in your
